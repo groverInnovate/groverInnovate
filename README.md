@@ -11,7 +11,7 @@
 - 🎓 I'm a college student at IITR passionate about building impactful Web3 and AI applications.
 - 🧱 Currently diving deep into:
   - **ZKVMs client side proving**
-  - **Defu**
+  - **Defi**
   - **Agentic AI using the Eliza Starter Kit**
 - 💡 I enjoy building DeFi protocols, experimenting with new on-chain primitives, and exploring how blockchain and AI can work together.
 
