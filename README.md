@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Mohit Grover</h1>
 
 <p align="center">
-  🚀 Aspiring Blockchain Developer | 🧠 Learning Ethereum, AI Agents, ZKVMs | 🇮🇳 India
+  🚀 Aspiring Blockchain Developer | 🧠 Learning Ethereum, AI Agents, ZK | 🇮🇳 India
 </p>
 
 ---
@@ -33,8 +33,10 @@
 
 #### 🧠 Learning & Exploring
 - Zero Knowledge Cryptography
-- AI Agents & Chain-of-Thought Reasoning
-- Interoperability (Chainlink CCIP, LayerZero, etc.)
+- Game development
+- AI Agents 
+- Rust
+- Noir Lang
 
 ---
 
@@ -42,10 +44,10 @@
 
 | Project | Description |
 |--------|-------------|
-| 🪙 `PYB Protocol` | A fully tested DeFi yield vault system using Foundry (Solidity) |
-| 📜 `zkVM Research` | Exploring zkVMs like RISC Zero and Cairo for proving on-chain computations |
+| 🪙 `PayNFC` | A farcaster mini-app that allows payments using NFC cards and Google contacts on Base|
+| 📜 `Cosmic Defi` | Extending Fusion+ Prootocol of 1inch to Monad |
 | 🧠 `AI Trading Agent` | Agent that scrapes alpha tweets and interprets signals for crypto markets |
-| 🕸️ `Eliza Agent Playground` | Custom TypeScript AI agents using Eliza SDK |
+| 🕸️ `TaskMatch` | Freelancing app but for offline everyday tasks |
 
 > 🏗️ Always building. Stay tuned for more open-source drops!
 
