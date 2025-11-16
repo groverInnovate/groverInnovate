@@ -1,84 +1,20 @@
-<h1 align="center">Hey there! 👋 I'm Mohit Grover</h1>
+# 💫 About Me:
+I'm currently working on Orbital AMM  protocol for multiple stablecoins within a single pool  designed for high capital efficiency, and Deimos, a benchmarking suite for computing zero-knowledge proofs on mobile devices using Mopro.<br><br>I'm looking to collaborate on Project with real-world DeFi applications and ZK cryptography .<br><br>I'm looking for help with Connecting with researchers and engineers who are focused on Math stastics , protocol-level optimization, and advanced Defi.<br><br>I'm currently learning advanced DeFi mechanisms and protocol architectures and also Noir  for writing and verifying ZK circuits, alongside .<br><br>Ask me about Mobile  AMM design, Defi in general, ZK proving.<br>
 
-<p align="center">
-  🚀 Aspiring Blockchain Developer | 🧠 Learning Ethereum, AI Agents, ZK | 🇮🇳 India
-</p>
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MohitGrover0376) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-grover-38bb68311) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GroverInnovate) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:grovermohit143@gmail.com) 
 
-### 👨‍💻 About Me
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=groverInnovate&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=groverInnovate&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=groverInnovate&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🎓 I'm a college student at IITR passionate about building impactful Web3 and AI applications.
-- 🧱 Currently diving deep into:
-  - **ZKVMs client side proving**
-  - **Defi**
-  - **Agentic AI using the Eliza Starter Kit**
-- 💡 I enjoy building DeFi protocols, experimenting with new on-chain primitives, and exploring how blockchain and AI can work together.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=groverInnovate&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🛠️ Tech Stack & Tools
-
-#### 👨‍💻 Languages
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-
-#### 🔧 Tools & Frameworks
-![Foundry](https://img.shields.io/badge/-Foundry-black?style=flat&logo=foundry)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-
-#### 🧠 Learning & Exploring
-- Zero Knowledge Cryptography
-- Game development
-- AI Agents 
-- Rust
-- Noir Lang
-
----
-
-### 🚀 Projects & Work
-
-| Project | Description |
-|--------|-------------|
-| 🪙 `PayNFC` | A farcaster mini-app that allows payments using NFC cards and Google contacts on Base|
-| 📜 `Cosmic Defi` | Extending Fusion+ Prootocol of 1inch to Monad |
-| 🧠 `AI Trading Agent` | Agent that scrapes alpha tweets and interprets signals for crypto markets |
-| 🕸️ `TaskMatch` | Freelancing app but for offline everyday tasks |
-
-> 🏗️ Always building. Stay tuned for more open-source drops!
-
----
-
-### 📫 Connect With Me
-
-- X: [@GroverInnovate](https://x.com/GroverInnovate)
-- LinkedIn: [Mohit Grover](https://www.linkedin.com/in/mohit-grover-38bb68311)
-
----
-
-### ⚡ Fun Fact
-
-> “90% learning, 10% debugging why things don't work... 100% obsessed with building cool stuff.”
-
----
-
-<p align="center">✨ Let’s build something legendary ✨</p>
-
-<!--
-**groverInnovate/groverInnovate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
